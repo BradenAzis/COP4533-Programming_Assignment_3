@@ -1,5 +1,5 @@
 # COP4533-Programming_Assignment_3
-Braden Azis
+Braden Azis UFID: 20730106
 
 ## How to Run
 
@@ -20,12 +20,12 @@ Once runtimes.txt is generated, simply run the ```graph.py``` and the runtime pl
 
 ## Question 1
 
-![runtime_plot](./runtime_plot.png)
+![runtime_plot](./images/runtime_plot.png)
 
 
 ## Question 2
 
-![recurrence_relation](./Recurrence_Relation.png)
+![recurrence_relation](./images/Recurrence_Relation.png)
 
 This reccurence is correct because each common subsequence either uses the pair of matching chars A[i] = B[j] or skips one char from one of the strings.
 

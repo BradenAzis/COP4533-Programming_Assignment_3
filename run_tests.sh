@@ -1,6 +1,6 @@
 #!/bin/bash
 
-g++ HVLCS.cpp -O2 -o hvlcs
+g++ src/HVLCS.cpp -O2 -o hvlcs
 
 # Clear output file
 echo -n "" > runtimes.txt
