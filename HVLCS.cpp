@@ -1,10 +1,15 @@
 #include <vector>
 #include <iostream>
 #include <map>
+#include <chrono>
+
 
 using namespace std;
 
 int main() {
+    // start time
+    auto start = chrono::high_resolution_clock::now();
+
 
     // num chars in alphabet
     int k;
@@ -68,6 +73,13 @@ int main() {
     // Output
     cout << DP[0][0] << "\n";
     cout << result << "\n";
+
+    // end time
+    auto end = chrono::high_resolution_clock::now();
+    double t = chrono::duration<double, milli>(end - start).count();
+
+    // NOTE: uncomment if wanting to view/plot runtime
+    // cerr << t << endl;
 
 
 

@@ -1,0 +1,9 @@
+6
+a 1
+B 7
+c 3
+D 10
+e 2
+F 5
+aBDceFaBDceFaBDceFaBDceF
+FecDBFecDBFecDBFecDBFecD

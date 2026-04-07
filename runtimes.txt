@@ -1,0 +1,10 @@
+inputs/input1.txt 0.174875
+inputs/input10.txt 0.201125
+inputs/input2.txt 0.180792
+inputs/input3.txt 0.159708
+inputs/input4.txt 0.1545
+inputs/input5.txt 0.171584
+inputs/input6.txt 0.168
+inputs/input7.txt 0.167083
+inputs/input8.txt 0.153042
+inputs/input9.txt 0.153208

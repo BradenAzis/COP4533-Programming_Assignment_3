@@ -1,0 +1,6 @@
+3
+p 9
+q 1
+r 4
+ppprrrpqppprrrpqppprrrpqpp
+rrrpppqrprrppprqrrrppqprrr
